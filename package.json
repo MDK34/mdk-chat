@@ -1,0 +1,15 @@
+{
+  "name": "mdk-sohbet-sunucu",
+  "version": "8.4.0",
+  "description": "MDK Dokunma Oyunu 8.4 CHAT Edition sohbet sunucusu",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "ws": "^8.18.0"
+  }
+}
